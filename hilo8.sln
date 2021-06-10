@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hilo8", "hilo8\hilo8.csproj", "{A5A408C1-61DC-4055-B760-AB259D782511}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5A408C1-61DC-4055-B760-AB259D782511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A408C1-61DC-4055-B760-AB259D782511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A408C1-61DC-4055-B760-AB259D782511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A408C1-61DC-4055-B760-AB259D782511}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15A2E9AE-AC23-450C-B404-889F1F1229C4}
+	EndGlobalSection
+EndGlobal
